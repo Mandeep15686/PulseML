@@ -1,0 +1,13 @@
+{
+  "name": "credit_risk_scorer_v1",
+  "version": "1.0.0",
+  "description": "Credit default risk scoring model \u2014 demo with injected drift",
+  "task_type": "binary_classification",
+  "feature_names": [
+    "age",
+    "income",
+    "credit_score",
+    "debt_ratio",
+    "employment"
+  ]
+}

@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+htmlcov/
+.coverage
+
+# Environments
+.env
+.venv
+venv/
+env/
+
+# Data & DB
+data/pulseml.db
+data/*.db
+test_pulseml.db
+
+# Node / Frontend
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
